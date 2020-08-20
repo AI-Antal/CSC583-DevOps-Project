@@ -4,4 +4,4 @@
 ##### Project: Create a Pizza Company and design its website.
 Tools used in the process of creating the website: Atom(Development), Selenium(Testing), Git(Version Control), Google Sites(Prototyping), Zoom(Online meetings), Trello(Project Management), and Slack(Information Exchange).
 
-##### Team Members: John Morada(Supervisor/Professor), Thanh Cong Trinh(Cong), Ziyang Sheh(Victor), Aneeshinder Singh Antal(Batman).
+##### Team Members: John Morada(Supervisor/Professor), Thanh Cong Trinh(Cong), Ziyang Sheh(Victor), Aneesh Singh(Batman).
